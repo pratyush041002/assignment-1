@@ -1,0 +1,47 @@
+<!DOCTYPE html > 
+<html>
+<head>
+<title>Q1 HTML </title>
+</head>
+<body>
+<h1> My Personal Info </h1>
+<ul>
+<li>Name :- Pratyush Nayak </li>
+<li>Regd-no. :- 2141014098 </li>
+<li>Age :- 20 </li>
+</ul>
+<h1>My Education Qualification </h1>
+
+<strong><em>10 <sup>th</sup> :- </em></strong>
+<ol>
+<li>School :- Guru Nanak Public School </li>
+<li> Percentage of Marks :- 88 % </li>
+<li>Board :- CBSE</li>
+</ol>
+
+<strong><em>12 <sup>th</sup> :- </em></strong>
+<ol>
+<li>School :- Guru Nanak Public School </li>
+<li>Percentage of Marks :- 80 % </li>
+<li>Board :- CBSE</li>
+</ol>
+<h1> My Address </h1>
+<address>
+You can contact me at :
+<a href = "mailto:pratyushn567@gmail.com">pratyushn567@gmail.com</a> <br>
+
+Qr. no. :- D/800 Sector - 20 <br>
+City :- Rourkela <br>
+State :- Odisha <br>
+</address>
+
+<h1> About My Self </h1>
+<p>
+Hi I am Pratyush Nayak . I am pursuing Bachelors of Technology in Computer Science and Engineering at 
+Institue of Technical Education and Research in Bhubaneswar . I like to play guitar , read books , exploring 
+new places and drive new automobiles.My father's name is Prasanna Kumar Nayak and he is a Government employee working 
+at Indian railways . My mother's name is Geetanjali Nayak and she is a housewife . 
+</p>
+
+</body>
+</html>
